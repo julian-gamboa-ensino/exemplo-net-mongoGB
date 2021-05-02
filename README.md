@@ -1,4 +1,4 @@
-# dotnet-mongo
+# dotnet-mongo (Curso baseado nas palestras do professor Faraday)
 
 Exemplo de aplicação .net core com mongodb.
 
